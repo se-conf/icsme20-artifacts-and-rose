@@ -1,3 +1,4 @@
+# rose8icsme20
 # ICSME'20 Artifact Track: Call for Submissions
 
 Authors of **papers accepted to the 2020 Technical Track** are invited to submit artifacts associated with those papers to the ICSME Artifact Track for evaluation as candidate **reusable, available, replicated or reproduced** artifacts`.
@@ -43,6 +44,7 @@ The goal of this track is to encourage reusable research products. Hence, no **f
 
 ## Best Artifact Awards
 
+[//]: # (Jens: onluy one award (ICSE has two as we expect significatly fewer submissions based on 2019 data)
 There will be an ICSME 2020 Best Artifact Award to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 ## Submission and Review
@@ -57,10 +59,10 @@ Note that all submissions, reviewing, and notifications for this track will be v
 	- Creating a GitHub account with your public name
 	- Forking the master branch of our repo [https://github.com/se-conf/icsme20-artifacts-and-rose](https://github.com/se-conf/icsme20-artifacts-and-rose)
 	- Creating a subdirectory one per submission, underneath one of the directories: 
-		- https://github.com/jensdietrich/rose8icsme20/submissions/reusable,
-		- https://github.com/jensdietrich/rose8icsme20/submissions/available,
-		- https://github.com/jensdietrich/rose8icsme20/submissions/replicated,
-		- https://github.com/jensdietrich/rose8icsme20/submissions/reproduced
+		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/reusable,
+		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/available,
+		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/replicated,
+		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/reproduced
 	- Then adding submission file(s) to that directory
 	- Then committing this branch
 	- Then submitting a pull request (back to master).
@@ -71,7 +73,7 @@ Note that all submissions, reviewing, and notifications for this track will be v
 
 ### Replicated and Reproduced Categories
 
-For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/se-conf/icsme20-artifacts-and-rose) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository) by **TODO**. 
+For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/se-conf/icsme20-artifacts-and-rose/) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository) by **TODO**. 
 
 This abstrract should contain the following information:
 
@@ -106,7 +108,6 @@ For replicated and reproduced  badges, authors will be notified at the end of th
 
 ### Reusable and Available Categories
 
-[//]: # (Jens: this restriction isn't in the ICSE call but makes some sense, to be discussed)
 This category is to be used by authors of the papers accepted to the Technical Track of ICSME'20. 
 
 For these categories, authors submit by via fork and pull requests as described above, putting folders into the `submissions/reusable` or `submissions/available` folders, respectively. Authors must provide information showing how
