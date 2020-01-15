@@ -1,4 +1,3 @@
-# rose8icsme20
 # ICSME'20 Artifact Track: Call for Submissions
 
 Authors of **papers accepted to the 2020 Technical Track** are invited to submit artifacts associated with those papers to the ICSME Artifact Track for evaluation as candidate **reusable, available, replicated or reproduced** artifacts`.
