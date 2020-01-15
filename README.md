@@ -62,8 +62,8 @@ Note that all submissions, reviewing, and notifications for this track will be v
 		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/replicated,
 		- https://github.com/se-conf/icsme20-artifacts-and-rose/submissions/reproduced
 	- Then adding submission file(s) to that directory
-	- Then committing this branch
-	- Then submitting a pull request (back to master).
+	- Then committing this branch.
+	- Then submitting a pull request (back to master) *before the submission deadline*.
 - All reviewing will be done in Github.
 - Each submission will be processed in its own issue.
 - Authors will be notified of final decisions when the track chairs add labels to the issue corresponding to the respective submission.
@@ -71,9 +71,9 @@ Note that all submissions, reviewing, and notifications for this track will be v
 
 ### Replicated and Reproduced Categories
 
-For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/se-conf/icsme20-artifacts-and-rose/) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository) by **TODO**. 
+For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/se-conf/icsme20-artifacts-and-rose/) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository). 
 
-This abstrract should contain the following information:
+This abstract should contain the following information:
 
 - TITLE: **A (Partial)? (Replication|Reproduction) of XYZ**. Please add the term **partial** to your title if only some of the original work could be replicated/reproduced.
 - WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
@@ -168,14 +168,13 @@ by reviewers in the rebuttal phase.
 
 TBD
 
-## IMPORTANT DATES
+## IMPORTANT DATES (all AOE)
 
-- **TODO**: Pre-submission registration   
-- **TODO**: Submission deadline   
-- **TODO**: Review period (\*)   
-- **TODO**: Rebuttal period ends.   
-- **TODO**: Notifications   
-- **TODO**: Send list of artifacts badges to web chairs and proceeding chairs
+
+- Friday 26 June 2020: submission deadline (for the pull request, see above)
+- Monday 13 July - Wed 15 July 2020: author response period  
+- Sunday 19 July 2020 - author notifications   
+- Friday 7 August 2020 - camera-ready submission
 
 (\*) : For the available and reusable badges, reviewing will be on Github with reviewers commenting via anonymous Github ids. Authors should not comment until at least two reviewers have added comments. Earlier author comments will be deleted.
 
