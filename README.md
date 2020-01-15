@@ -43,7 +43,6 @@ The goal of this track is to encourage reusable research products. Hence, no **f
 
 ## Best Artifact Awards
 
-[//]: # (Jens: onluy one award (ICSE has two as we expect significatly fewer submissions based on 2019 data)
 There will be an ICSME 2020 Best Artifact Award to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 ## Submission and Review
@@ -150,7 +149,7 @@ the code is doing something interesting and useful.
 
 For the reusable and available categories, the review process will be interactive as follows:
 
-- Prior to reviewing, there may be some interactions to handle set up and install.
+- Prior to reviewing, there may be some interactions to handle set up and install ("kick the tires").
 Before the actual evaluation reviewers will check the integrity of the
 artifact and look for any possible setup problems that may prevent it from
 being properly evaluated (e.g., corrupted or missing files, VM won’t
