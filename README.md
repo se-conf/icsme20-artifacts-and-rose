@@ -43,20 +43,19 @@ The goal of this track is to encourage reusable research products. Hence, no **f
 
 ## Best Artifact Awards
 
-[//]: # (Jens: onluy one award (ICSE has two as we expect significatly fewer submissions based on 2019 data)
 There will be an ICSME 2020 Best Artifact Award to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 ## Submission and Review
 
 **IMPORTANT NOTE**: different categories have different submission procedures. See below.
 
-Note that all submissions, reviewing, and notifications for this track will be via the Github repository [https://github.com/jensdietrich/rose8icsme20](https://github.com/jensdietrich/rose8icsme20).
+Note that all submissions, reviewing, and notifications for this track will be via the Github repository [https://github.com/se-conf/icsme20-artifacts-and-rose](https://github.com/se-conf/icsme20-artifacts-and-rose).
 
 - There will be no emails notifying authors, acknowledging a submission, or informing authors of the results of the review process.
 - Instead, submitters can track the progress of their work by tracking its activity in the repo
 - Submitting anything to this track will mean
 	- Creating a GitHub account with your public name
-	- Forking the master branch of our repo [https://github.com/jensdietrich/rose8icsme20](https://github.com/jensdietrich/rose8icsme20)
+	- Forking the master branch of our repo [https://github.com/se-conf/icsme20-artifacts-and-rose](https://github.com/se-conf/icsme20-artifacts-and-rose)
 	- Creating a subdirectory one per submission, underneath one of the directories: 
 		- https://github.com/jensdietrich/rose8icsme20/submissions/reusable,
 		- https://github.com/jensdietrich/rose8icsme20/submissions/available,
@@ -72,7 +71,7 @@ Note that all submissions, reviewing, and notifications for this track will be v
 
 ### Replicated and Reproduced Categories
 
-For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/jensdietrich/rose8icsme20/) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository) by **TODO**. 
+For the “replicated” and “reproduced” categories, authors will need to offer appropriate documentation that their artifacts have reached that stage. For these categories, the submission process is to submit a one page (max) abstract in PDF via a GitHub pull request to [the submission repository](https://github.com/se-conf/icsme20-artifacts-and-rose) (please check [here](https://github.com/researchart/rose/blob/master/guidance.md) for the structure of the repository) by **TODO**. 
 
 This abstrract should contain the following information:
 
