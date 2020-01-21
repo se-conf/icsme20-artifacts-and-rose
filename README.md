@@ -8,11 +8,10 @@ This makes it difficult for research papers to earn credit for replication and r
 
 ***Artifact Evaluation Track.*** Authors of **papers accepted to the ICSME 2020 Technical Track** are invited to submit artifacts associated with those papers to the ICSME Artifact Track for evaluation as a candidate **reusable, available** artifact.
 
-***ROSE Festival.*** Authors of any prior SE work (published at ICSME, ICSE, FSE or elsewhere) are invited to submit an artifact to the ICSME Artifact Track for evaluation as a candidate **replicated or reproduced** artifact. 
+***ROSE Festival.*** Authors of any prior SE work (published at ICSME, ICSE, FSE or ***elsewhere***) are invited to submit an artifact to the ICSME Artifact Track for evaluation as a candidate **replicated or reproduced** artifact. 
 
 If the artifact is accepted:
-- Authors will be invited to give lightning talks on this work at ICSME'20
-- The artifact will each receive one (and only one) of the badges below on the front page of the authors' paper and in the proceedings.
+- Authors will be invited to give lightning talks on this work at ICSME'20.
 - We will work with the IEEE Xplore and ACM Portal administrator to add  badges to the electronic versions of the authors' paper(s), corresponding to the categories in the table below.
 - The badges shown in the table below are the ACM badges, which particular badges to be used will be confirmed later, mainly dependeing on ongoing discussions by the IEEE to introduce its own badges.
 
