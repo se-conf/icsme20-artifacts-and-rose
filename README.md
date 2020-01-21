@@ -13,7 +13,7 @@ This makes it difficult for research papers to earn credit for replication and r
 If the artifact is accepted:
 - Authors will be invited to give lightning talks on this work at ICSME'20.
 - We will work with the IEEE Xplore and ACM Portal administrator to add  badges to the electronic versions of the authors' paper(s), corresponding to the categories in the table below.
-- The badges shown in the table below are the ACM badges, which particular badges to be used will be confirmed later, mainly dependeing on ongoing discussions by the IEEE to introduce its own badges.
+- The badges shown in the table below are the ACM badges, which particular badges to be used will be confirmed later, depending on ongoing discussions by the IEEE to introduce its own badges.
 
 <table>
 <thead></thead>
