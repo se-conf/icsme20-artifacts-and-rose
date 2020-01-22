@@ -168,9 +168,6 @@ TBD
 
 
 - Friday 26 June 2020: Submission deadline (via pull request, see above)
-- Saturday 26 June - Friday 3 July 2020: 
-
-
--the-tires period  
+- Saturday 26 June - Friday 3 July 2020: kick-the-tires  
 - Sunday 19 July 2020 - Author notifications   
 - Friday 7 August 2020 - Camera-ready submission
