@@ -152,7 +152,7 @@ the code is doing something interesting and useful.
 
 For the reusable and available categories, the review process will be interactive as follows:
 
-- ***Kicking-the-tires:*** Before the actual evaluation, reviewers will check the integrity of the artifact and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). 
+- ***Kick-the-tires:*** Before the actual evaluation, reviewers will check the integrity of the artifact and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). 
 The Evaluation Committee may contact the authors to request clarifications on the basic installation and start-up procedures or to resolve simple installation problems. 
 Authors are required to provide response promptly to help reviewers resolve any technical issues with their artifact submission.
 
@@ -167,7 +167,10 @@ TBD
 ## IMPORTANT DATES (all AOE)
 
 
-- Friday 26 June 2020: Submission deadline (for the pull request, see above)
-- Saturday 26 June - Friday 3 July 2020: Kicking-the-tires period  
+- Friday 26 June 2020: Submission deadline (via pull request, see above)
+- Saturday 26 June - Friday 3 July 2020: 
+
+
+-the-tires period  
 - Sunday 19 July 2020 - Author notifications   
 - Friday 7 August 2020 - Camera-ready submission
