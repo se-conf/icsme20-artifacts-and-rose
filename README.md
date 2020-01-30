@@ -161,8 +161,16 @@ Authors are required to provide response promptly to help reviewers resolve any 
 - ***Notification*** Authors are informed of the outcome.  
 
 ## REVIEW COMMITTEE
+| | |
+-------------------------:|:-------------------------
+![](pc/george-fourtounis.jpg) | **[George Fourtounis](https://gfour.github.io/)** <br> University of Athens, Greece |
+![](pc/kamil-jezek.jpg) | **Kamil Jezek** <br> University of Sydney, Sydney |
+![](pc/sherlock-licorish.jpg) | **[Sherlock Licorish](https://www.otago.ac.nz/info-science/people/sherlock-licorish.html)** <br> University of Otago, New Zealand|
+![](pc/tosin-oyetoyan.jpg) |**[Tosin Daniel Oyetoyan](https://www.hvl.no/en/employee/?user=6022952)** <br> Western Norway University of Applied Sciences, Norway|
+![](pc/amjed-tahir.jpg "") | **[Amjed Tahir](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=481450)** <br> Massey University, New Zealand |
 
-TBD
+
+
 
 ## IMPORTANT DATES (all AOE)
 
