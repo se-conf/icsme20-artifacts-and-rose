@@ -167,8 +167,12 @@ Authors are required to provide response promptly to help reviewers resolve any 
 ![](pc/kamil-jezek.jpg) | **Kamil Jezek** <br> University of Sydney, Sydney |
 ![](pc/sherlock-licorish.jpg) | **[Sherlock Licorish](https://www.otago.ac.nz/info-science/people/sherlock-licorish.html)** <br> University of Otago, New Zealand|
 ![](pc/tosin-oyetoyan.jpg) |**[Tosin Daniel Oyetoyan](https://www.hvl.no/en/employee/?user=6022952)** <br> Western Norway University of Applied Sciences, Norway|
-![](pc/amjed-tahir.jpg "") | **[Amjed Tahir](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=481450)** <br> Massey University, New Zealand |
-
+![](pc/amjed-tahir.jpg) | **[Amjed Tahir](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=481450)** <br> Massey University, New Zealand |
+![](pc/xuan-bach-le.jpg) | **[Xuan-Bach D. Le](https://xuanbachle.github.io/)** <br> The University of Melbourne, Australia |
+![](daniel-alenca.jpg) | **[Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html)** <br> The University of Otago, New Zealand |
+![](maria-teresa.jpg) | **[Maria Teresa Baldassarre](https://www.uniba.it/docenti/baldassarre-maria-teresa)** <br> The University of Bari, Italy |
+![](lili-wei.jpg) | **[Lili Wei](http://home.cse.ust.hk/~lweiae/)** <br> The Hong Kong University of Science and Technolog, Hong Kong |
+![](raula.jpg) | **[Raula G. Kula](https://raux.github.io/)** <br> Nara Institute of Science and Technology, Japan |
 
 
 
