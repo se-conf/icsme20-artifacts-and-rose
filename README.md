@@ -163,12 +163,16 @@ Authors are required to provide response promptly to help reviewers resolve any 
 ## REVIEW COMMITTEE
 | | |
 -------------------------:|:-------------------------
-![](pc/george-fourtounis.jpg) | **[George Fourtounis](https://gfour.github.io/)** <br> University of Athens, Greece |
+<img src="pc/george-fourtounis.jpg" width="100"> | **[George Fourtounis](https://gfour.github.io/)** <br> University of Athens, Greece |
 ![](pc/kamil-jezek.jpg) | **Kamil Jezek** <br> University of Sydney, Sydney |
-![](pc/sherlock-licorish.jpg) | **[Sherlock Licorish](https://www.otago.ac.nz/info-science/people/sherlock-licorish.html)** <br> University of Otago, New Zealand|
-![](pc/tosin-oyetoyan.jpg) |**[Tosin Daniel Oyetoyan](https://www.hvl.no/en/employee/?user=6022952)** <br> Western Norway University of Applied Sciences, Norway|
-![](pc/amjed-tahir.jpg "") | **[Amjed Tahir](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=481450)** <br> Massey University, New Zealand |
-
+<img src="pc/sherlock-licorish.jpg" width="100"> | **[Sherlock Licorish](https://www.otago.ac.nz/info-science/people/sherlock-licorish.html)** <br> University of Otago, New Zealand|
+<img src="pc/tosin-oyetoyan.jpg" width="100"> |**[Tosin Daniel Oyetoyan](https://www.hvl.no/en/employee/?user=6022952)** <br> Western Norway University of Applied Sciences, Norway|
+<img src="pc/amjed-tahir.jpg" width="100"> | **[Amjed Tahir](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=481450)** <br> Massey University, New Zealand |
+<img src="pc/xuan-bach-le.jpg" width="100"> | **[Xuan-Bach D. Le](https://xuanbachle.github.io/)** <br> The University of Melbourne, Australia |
+<img src="pc/daniel-alenca.jpg" width="100"> | **[Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html)** <br> The University of Otago, New Zealand |
+<img src="pc/maria-teresa.jpg" width="100">  | **[Maria Teresa Baldassarre](https://www.uniba.it/docenti/baldassarre-maria-teresa)** <br> The University of Bari, Italy |
+<img src="pc/lili-wei.jpg" width="100"> | **[Lili Wei](http://home.cse.ust.hk/~lweiae/)** <br> The Hong Kong University of Science and Technolog, Hong Kong |
+<img src="pc/raula.jpeg" width="100"> | **[Raula G. Kula](https://raux.github.io/)** <br> Nara Institute of Science and Technology, Japan |
 
 
 
