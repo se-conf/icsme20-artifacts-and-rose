@@ -167,7 +167,7 @@ Authors are required to provide response promptly to help reviewers resolve any 
 <img src="pc/daniel-alenca.jpg" width="100"> | **[Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html)** <br> The University of Otago, New Zealand |
 <img src="pc/george-fourtounis.jpg" width="100"> | **[George Fourtounis](https://gfour.github.io/)** <br> University of Athens, Greece |
 <img src="pc/raula.jpeg" width="100"> | **[Raula G. Kula](https://raux.github.io/)** <br> Nara Institute of Science and Technology, Japan |
-![](pc/kamil-jezek.jpg) | **Kamil Jezek** <br> University of Sydney, Sydney |
+![](pc/kamil-jezek.jpg) | **Kamil Jezek** <br> University of Sydney, Australia |
 <img src="pc/xuan-bach-le.jpg" width="100"> | **[Xuan-Bach D. Le](https://xuanbachle.github.io/)** <br> The University of Melbourne, Australia |
 <img src="pc/sherlock-licorish.jpg" width="100"> | **[Sherlock Licorish](https://www.otago.ac.nz/info-science/people/sherlock-licorish.html)** <br> University of Otago, New Zealand|
 <img src="pc/tosin-oyetoyan.jpg" width="100"> |**[Tosin Daniel Oyetoyan](https://www.hvl.no/en/employee/?user=6022952)** <br> Western Norway University of Applied Sciences, Norway|
