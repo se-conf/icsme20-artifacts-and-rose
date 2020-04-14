@@ -175,10 +175,10 @@ Authors are required to provide response promptly to help reviewers resolve any 
 <img src="pc/lili-wei.jpg" width="100"> | **[Lili Wei](http://home.cse.ust.hk/~lweiae/)** <br> The Hong Kong University of Science and Technolog, Hong Kong |
 
 
-## IMPORTANT DATES (all AOE)
+## IMPORTANT DATES (all AOE, updated on 14 April 2020)
 
 
-- Friday 26 June 2020: Submission deadline (via pull request, see above)
-- Saturday 26 June - Friday 3 July 2020: kick-the-tires  
-- Sunday 19 July 2020 - Author notifications   
-- Friday 7 August 2020 - Camera-ready submission
+- ~~Friday 26 June 2020~~  Friday 7 August 2020: Submission deadline (via pull request, see above)
+- ~~Saturday 26 June - Friday 3 July 2020~~ Saturday 8 August - Friday 14 August 2020: kick-the-tires  
+- ~~Sunday 19 July 2020~~ Sunday 30 August 2020 - Author notifications   
+- ~~Friday 7 August 2020~~ Friday 11 September 2020 - Camera-ready submission
