@@ -8,7 +8,6 @@ To reproduce the JIT mining process the SmartSHARK MongoDB needs to be accessibl
 ```bash
 wget https://user.informatik.uni-goettingen.de/~sherbol/replicationkits/replication-kit-emse-2020-defect-prediction-data/smartshark-mongodb-rel1.gz
 
-# mongorestore by default uses the dump/ directory
 mongorestore smartshark-mongodb-rel1.gz
 ```
 
