@@ -9,6 +9,10 @@ A reproduction is possible for everything except for the manually validated data
 - Python 3.6
 - MongoDB 4.0 (only for the optional steps 1&2)
 
+The replication of the results of the paper from the processed raw data requires only Python 3.6 and Git and should not be problematic without virtualization.
+
+The full replication starting from the raw results cannot be reasonable performed using a single virtual machine/container, due to the large amount of data required and the computational effort involved. Therefore, we opted not to provide a virtual image for this part, but rather describe how an execution environment can be configured.
+
 
 ## 1. Reproduce SmartSHARK mining (Optional)
 
