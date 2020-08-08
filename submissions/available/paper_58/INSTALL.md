@@ -1,7 +1,8 @@
 # How to reproduce
 
 A reproduction is possible for everything except for the manually validated data contained in the SmartSHARK MongoDB dump. However, due to the time constraints we provide intermediate data at every step.
-To reproduce the main part of the paper, the JIT models, the first two steps can be skipped.
+**To reproduce the JIT models and results in the paper, the first two steps can be skipped.**
+
 
 ## Reproduce SmartSHARK mining
 
