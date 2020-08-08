@@ -1,5 +1,5 @@
 A complete replication is rather complicated because we have a long chain of tools and resulting data that is aggregated/computed at each step.
-Nevertheless, we describe the complete chain here.
+Nevertheless, we describe the complete chain here and in INSTALL.md and provide intermediate results.
 
 # Repository Mining
 

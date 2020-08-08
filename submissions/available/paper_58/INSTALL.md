@@ -1,6 +1,14 @@
 # How to reproduce
 
 A reproduction is possible for everything except for the manually validated data contained in the SmartSHARK MongoDB dump. However, due to the time constraints we provide intermediate data at every step.
+To reproduce the main part of the paper, the JIT models, the first two steps can be skipped.
+
+## Reproduce SmartSHARK mining
+
+The data from the MongoDB dump can be reproduced via SmartSHARK. The data we use can be reproduced with the [serverSHARK](https://github.com/smartshark/serverSHARK) orchestration tool with the following plugins [vcsSHARK](https://github.com/smartshark/vcsSHARK), [mecoSHARK](https://github.com/smartshark/mecoSHARK), [rMineSHARK](https://github.com/smartshark/rMineSHARK), [issueSHARK](https://github.com/smartshark/issueSHARK), [linkSHARK](https://github.com/smartshark/linkSHARK), [labelSHARK](https://github.com/smartshark/labelSHARK) and [inducingSHARK](https://github.com/smartshark/inducingSHARK). Additionally the links between issues and commits as well as the issue types can be validated via a visualization frontend [visualSHARK](https://github.com/smartshark/visualSHARK).
+
+This is the most time consuming process, we provide a SmartSHARK MongoDB dump that can be used to skip this step.
+
 
 ## Reproduce JIT mining data
 To reproduce the JIT mining process the SmartSHARK MongoDB needs to be accessible for the mining tool. The dump is rather large and this may take some time.
