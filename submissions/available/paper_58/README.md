@@ -1,5 +1,6 @@
 A complete replication is rather complicated because we have a long chain of tools and resulting data that is aggregated/computed at each step.
 Nevertheless, we describe the complete chain here and in INSTALL.md and provide intermediate results.
+We note that not everything is required for a reproduction of the models used in the paper. Using the replication kit on [Github](https://github.com/atrautsch/icsme2020_replication) with the supplied data is sufficient.
 
 # Repository Mining
 
