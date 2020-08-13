@@ -103,6 +103,7 @@ To create and evaluate the models the TrainTest.ipynb and Interval.ipynb are nee
 ## 4. Reproduce figures used in the paper
 
 The replication kit already contains calculated model data, if only the figures should be reproduced the mining data is not necessary and only the TrainTestEval.ipynb and IntervalEval.ipynb notebooks are necessary.
+Running these produces the plots in the paper. They are saved in the figures folder.
 
 ```bash
 git clone https://github.com/atrautsch/icsme2020_replication
