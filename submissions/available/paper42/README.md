@@ -10,6 +10,12 @@ Slicing", and raw results from the experiments described in the paper.
 The replication package can be obtained from: <https://github.com/Chenguang-Zhu/icsme20-artifact>.
 The artifact is also freely accessible at a permanent DOI link: <https://doi.org/10.21979/N9/LPHCUS>.
 
+#### Pre-requisites
+
+There are two pre-requisites for running GenSlice artifact:  
+1. Clone the Git repo of the artifact: https://github.com/Chenguang-Zhu/icsme20-artifact
+2. Install docker version 19.03.12
+
 #### 1. Directory Structures
 ```
 📦 icsme20-artifact
